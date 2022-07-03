@@ -80,7 +80,7 @@
 }
 
 .char-selected {
-    background-color: #dc143c;
+    background-color: rgb(2, 114, 110);
 }
 
 .disabled {
@@ -401,7 +401,9 @@
 
 .material-symbols-outlined {
     color: #ededed;
+
     background-color: #dc143c;
+    font-size: 1.3vh;
     font-weight: 900;
     border-radius: .3vh;
     padding: .3vh;
@@ -527,7 +529,7 @@ input[type="date"]::-webkit-clear-button {
     position: absolute;
     max-width: 87%;
     height: 4vh;
-    background-color: #dc143c;
+    background-color: rgb(2, 114, 110);
     border-radius: .3vh;
     bottom: 3vh;
     margin: 0 auto;
